@@ -183,18 +183,6 @@ make systemimage -j$(nproc --all)
 
 ---
 
-### Step 6: Compress Build Output
-
-After compilation finishes, navigate to the output folder and compress the image:
-
-```bash
-cd out/target/product/tdgsi_arm64_ab
-7z a lineage-23.2-gts8pwifi.img.7z system.img
-
-```
-
----
-
 ## 📥 Flashing Instructions
 
 1. Download the latest release `.7z` / `.img` file.
