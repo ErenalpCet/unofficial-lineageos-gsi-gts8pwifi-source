@@ -63,8 +63,9 @@ LineageOS is based on the Android Open Source Project (AOSP) with extra contribu
 * **Included Prebuilts:**
   * **F-Droid & Aurora Store:** Alternative app store support out of the box.
   * **Fossify Notes & Fossify Paint:** Note-taking and drawing tools suitable for S-Pen usage.
-  * **Button Mapper:** Included to remap the S-Pen button (by default, pressing the button outputs an asterisk `*`).
+  * **Button Mapper:** Included to remap the S-Pen button (by default, pressing the button outputs PROG_RED).
   * **Pride App:** Included in the build (source code available on GitHub).
+* **Maybe More?**
 
 ---
 
