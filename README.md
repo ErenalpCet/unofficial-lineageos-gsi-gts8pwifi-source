@@ -41,7 +41,7 @@ LineageOS is based on the Android Open Source Project (AOSP) with extra contribu
 | **Touch Screen** | 🟢 Supported | |
 | **S-Pen** | 🟢 Supported | S-Pen button clicks supported |
 | **Autobrightness** | 🟢 Supported | |
-| **Double Tap to Wake (DT2W)** | 🟢 Supported | |
+| **Double Tap to Wake (DT2W)** | 🟢 Supported | Need to enable from the treble settings |
 | **Vibration** | 🟢 Supported | |
 | **USB** | 🟢 Supported | |
 | **SELinux** | 🟢 Supported | Enforcing |
