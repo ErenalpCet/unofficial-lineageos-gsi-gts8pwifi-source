@@ -1,0 +1,10 @@
+android_app_import {
+    name: "ButtonMapper",
+    apk: "ButtonMapper.apk",
+    presigned: true,
+    preprocessed: true,
+    skip_preprocessed_apk_checks: true,
+    dex_preopt: {
+        enabled: false,
+    },
+}

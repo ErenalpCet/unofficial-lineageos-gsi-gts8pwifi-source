@@ -1,0 +1,11 @@
+android_app_import {
+    name: "AuroraStore",
+    apk: "AuroraStore.apk",
+    presigned: true,
+    preprocessed: true,
+    enforce_uses_libs: false,
+    dex_preopt: {
+        enabled: false,
+    },
+}
+

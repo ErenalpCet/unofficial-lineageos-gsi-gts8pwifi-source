@@ -1,0 +1,7 @@
+# Force SELinux Enforcing early in boot
+on init
+    write /sys/fs/selinux/enforce 1
+
+# Fallback trigger during late-init
+on late-init
+    write /sys/fs/selinux/enforce 1

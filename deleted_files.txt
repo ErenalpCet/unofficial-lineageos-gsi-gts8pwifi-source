@@ -1,0 +1,2 @@
+packages/apps/Dialer/Android.bp
+packages/apps/Messaging/Android.bp

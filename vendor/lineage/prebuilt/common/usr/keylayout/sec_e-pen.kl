@@ -1,0 +1,3 @@
+# S-Pen Barrel Button Mapping
+# 331 is the decimal code for BTN_STYLUS
+key 331 PROG_RED

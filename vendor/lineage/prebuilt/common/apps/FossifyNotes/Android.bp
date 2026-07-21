@@ -1,0 +1,10 @@
+android_app_import {
+    name: "FossifyNotes",
+    apk: "FossifyNotes.apk",
+    presigned: true,
+    preprocessed: true,
+    enforce_uses_libs: false,
+    dex_preopt: {
+        enabled: false,
+    },
+}

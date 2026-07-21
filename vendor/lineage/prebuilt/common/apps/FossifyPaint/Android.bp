@@ -1,0 +1,10 @@
+android_app_import {
+    name: "FossifyPaint",
+    apk: "FossifyPaint.apk",
+    presigned: true,
+    preprocessed: true,
+    enforce_uses_libs: false,
+    dex_preopt: {
+        enabled: false,
+    },
+}

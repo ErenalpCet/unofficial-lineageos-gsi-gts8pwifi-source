@@ -1,0 +1,15 @@
+android_app_import {
+    name: "FDroid",
+    apk: "FDroid.apk",
+    privileged: false,
+    presigned: true,
+    preprocessed: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    optional_uses_libs: [
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
+}
+

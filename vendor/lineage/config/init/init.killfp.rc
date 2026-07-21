@@ -1,0 +1,11 @@
+# Override and disable vendor fingerprint HALs
+service vendor.fps_hal /vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service
+    override
+    class hal
+    disabled
+
+service vendor.sec-fingerprint-hal /vendor/bin/hw/vendor.samsung.hardware.biometrics.fingerprint@3.0-service
+    override
+    class hal
+    disabled
+

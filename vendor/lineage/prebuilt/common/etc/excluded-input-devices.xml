@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+    <!-- Disable Samsung Grip Sensors (acting as rogue mice) -->
+    <device name="grip_notifier" />
+    <device name="grip_sensor" />
+    <device name="grip_sensor_sub" />
+    
+    <!-- Disable Ghost Touchpad (if not using a physical keyboard cover) -->
+    <device name="sec_touchpad" />
+</devices>
+
